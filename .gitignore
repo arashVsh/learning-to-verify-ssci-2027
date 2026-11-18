@@ -1,0 +1,39 @@
+# Generated data, checkpoints, results, and run logs
+/data/
+/checkpoints/
+/Results/
+/results/
+/outputs/
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.csv
+*.log
+*.complete
+
+# Environments and caches
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Manuscripts and archives
+*.tex
+*.bib
+*.pdf
+*.zip
+*.rar
+*.tar
+*.tar.gz
+
+# Local secrets and editor files
+.env
+.env.*
+.vscode/
+.idea/
